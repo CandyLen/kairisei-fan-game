@@ -3,7 +3,7 @@
 괴리성 밀리언아서의 게임 시스템을 참고한 웹 기반 덱빌딩 + PVE 전투 프로토타입입니다.
 
 ## 🎮 플레이
-**[▶ 플레이하기](https://유저이름.github.io/kairisei-prototype/)**
+**[▶ 플레이하기](https://candylen.github.io/kairisei-fan-game/)**
 _(배포 후 위 링크의 '유저이름'을 본인 GitHub ID로 변경하세요)_
 
 ## 주요 시스템
